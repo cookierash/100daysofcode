@@ -1,5 +1,5 @@
 ## ✨ Happy to see you
-Welcome! This repository will contain 100+ Python projects which are a part of the <i>#100DaysOfCode</i> challenge. You can review or use the projects I'll be sharing on this repository to empower your learning on Python. You can clone the repository on your local device using the following git command below. Don't forget to drop a star. You can always contact me using [Instagram](https://instagram.com/n0t.r4sh) or [Discord](https://discord.com/users/906233193609453572). Happy hacking ;)
+Welcome! This repository will contain 100+ Python projects which are a part of the <i>#100DaysOfCode</i> challenge. You can review or use the projects I'll be sharing on this repository to empower your learning on Python. You can clone the repository on your local device using the following git command below. Don't forget to drop a star. You can always contact me using [Instagram](https://instagram.com/rashh.is) or [Discord](https://discord.com/users/906233193609453572). Happy hacking ;)
 ```
 git clone https://github.com/newbierash/100daysofcode.git
 ```
