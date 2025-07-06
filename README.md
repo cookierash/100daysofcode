@@ -3,42 +3,75 @@ Welcome! This repository will contain 100+ Python projects which are a part of t
 ```
 git clone https://github.com/newbierash/100daysofcode.git
 ```
+---
 
-## 💻 Project 001: band-name-generator
-This is a basic program which uses the inputs: the city you grew up in and your pet's name to generate a band name. You can [click here](https://appbrewery.github.io/python-day1-demo/) to preview demo on without influencing your device.
+# Python Bootcamp Projects
 
-## 💻 Project 002: tip-calculator
-This program gets the total bill, tip amount and the amount of people as input and automatically calculates the amout of money which every person should pay. You can [click here](https://appbrewery.github.io/python-day2-demo/) to preview demo on without influencing your device.
+This repository contains my completed projects from the Python Bootcamp by App Brewery. Each mini project demonstrates key programming concepts and tools in Python, including basic syntax, loops, functions, object-oriented programming, APIs, and graphical interfaces.
 
-## 💻 Project 003: treasure-island
-This is a game where you aim to reach the treasure on the island. One of the scenarios prepared according to the direction, action and color preference questions asked by the program takes place. There is only one winning scenario. You can also fork the project to add new scenarios or modify existing scenarios.
+### 🎸 Band Name Generator
+A beginner project that uses input/output to generate a fun band name based on user inputs like city and pet name.
 
-## 💻 Project 004: rock-paper-scissors
-This is a basic rock-paper-scissors game supported with ASCII arts. Program gets our move as an input and generates random move for the computer. Then the program decides who the winner is according to the rules of the game. [Click here](https://wrpsa.com/) to know more about the game rock-paper-scissors.
+### 🃏 Blackjack
+A text-based version of the popular card game. Includes logic for card values, player decisions, and win/lose conditions.
 
-## 💻 Project 005: password-generator
-It's a simple password generator app that generates a password with as many letters, symbols and numbers as you enter. The description of this exercise, which consists of two levels: simple and difficult, is as follows: At the simple level the password is generated with a static sequence of random letters, symbols and numbers, while at the hard level it is generated in random order.
+### 🧮 Calculator
+A command-line calculator that supports addition, subtraction, multiplication, and division using functions and loops.
 
-## 💻 Project 006: escape-the-maze
-While I can't provide much clarity on this exercise, you can check out the original site by [clicking here](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json) to see the code in action. It is a game where you aim to reach the final point by moving through the walls in a randomly generated frame. Note: since the code has built-in functions, it can only be run through the built-in editor of the site via the link I mentioned.
+### 🔐 Caesar Cipher
+Implements the classic Caesar Cipher encryption/decryption technique. Allows shifting letters for encoding and decoding messages.
 
-## 💻 Project 007: hangman
-here comes a description
+### ☕ Coffee Machine OOP
+An upgraded version of the coffee machine simulator using classes and object-oriented principles to manage menu items, inventory, and transactions.
 
-## 💻 Project 008: ceaser-cipher
-here comes a description
+### ☕ Coffee Machine
+Simulates a real coffee machine in the console. Handles resource checking, payments, and drink dispensing through functional programming.
 
-## 💻 Project 009: secret-auction
-here comes a description
+### 🧩 Escape the Maze
+A graphical game where a turtle has to find the path out of a maze. Uses object detection and control logic.
 
-## 💻 Project 010: calculator
-here comes a description
+### 🎨 Etch-A-Sketch
+An interactive turtle graphics project where you control a turtle using keyboard inputs to draw shapes like an Etch-A-Sketch.
 
-## 💻 Project 011: blackjack
-here comes a description
+### 🙈 Hangman
+A classic word guessing game. Displays a hangman graphic as the user makes incorrect guesses.
 
-## 💻 Project 012: number-guessing-game
-here comes a description
+### 📈 Higher-Lower
+A fun game where players guess which Instagram account has more followers. Teaches comparison logic and loops.
 
-## 💻 Project 013: higher-lower
-here comes a description
+### 🖌️ Hirst Painting
+Creates a Hirst-style dot painting using turtle graphics and the colorgram library. Generates beautiful patterns from a photo palette.
+
+### 🔢 Number Guessing Game
+A game that picks a random number between a range and gives hints until the user guesses correctly. Demonstrates loops and conditional logic.
+
+### 🔐 Password Generator
+A secure password generator that creates randomized passwords with letters, numbers, and symbols. Includes difficulty modes.
+
+### ❓ Quiz Game
+A GUI-based quiz app using Tkinter and object-oriented programming. Fetches questions from an API or file and keeps score.
+
+### ✊ Rock-Paper-Scissors
+A terminal-based version of the classic hand game. Uses random choice and conditional statements.
+
+### 💰 Secret Auction
+A console program that simulates a blind auction, collecting bids and determining the winner without revealing other inputs.
+
+### 🐍 Snake
+A playable version of the classic Snake game built with turtle graphics and Python's event-based controls.
+
+### 💸 Tip Calculator
+A small project that calculates the total bill per person based on inputted tip percentage and group size.
+
+### 🏝️ Treasure Island
+A text-based adventure game where choices lead to different story paths. Uses conditionals and string formatting.
+
+### 🐢 Turtle Race
+Simulates a race between turtles with randomized speeds. Great for learning turtle graphics and loops.
+
+---
+
+## 📌 Note
+I have not completed the entire 100 Days of Code Python challenge due to my heavy academic studies. However, I intend to continue building and learning whenever time allows.
+
+Feel free to explore the code and adapt it for your own learning journey!
