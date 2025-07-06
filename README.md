@@ -5,10 +5,6 @@ git clone https://github.com/newbierash/100daysofcode.git
 ```
 ---
 
-# Python Bootcamp Projects
-
-This repository contains my completed projects from the Python Bootcamp by App Brewery. Each mini project demonstrates key programming concepts and tools in Python, including basic syntax, loops, functions, object-oriented programming, APIs, and graphical interfaces.
-
 ### 🎸 Band Name Generator
 A beginner project that uses input/output to generate a fun band name based on user inputs like city and pet name.
 
